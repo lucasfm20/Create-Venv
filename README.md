@@ -3,8 +3,8 @@ Repositório com as instruções para usar o venv.
 
 
 ### 1- CRIAR O AMBIENTE VIRTUAL
+No cmd do projeto.
 ```bash
-//cmd
 python -m venv venv
 ```
 ### 2- ATIVAR O AMBIENTE VIRTUAL
