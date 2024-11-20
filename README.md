@@ -28,3 +28,7 @@ pip freeze > requirements.txt
 pip install -r requirements.txt
 ```
 
+### - RODAR PROJETO PELO CMD DENTRO DO VENV
+```bash
+python main.py
+```
