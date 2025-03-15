@@ -34,13 +34,4 @@ python main.py
 ```
 
 
-docker pull dpage/pgadmin4
 
-docker run -p 80:80 \
--e PGADMIN_DEFAULT_EMAIL=admin@admin.com \
--e PGADMIN_DEFAULT_PASSWORD=admin \
---name pgadmin \
--d dpage/pgadmin4
-
-
-http://localhost
